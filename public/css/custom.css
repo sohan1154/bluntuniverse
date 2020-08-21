@@ -1,0 +1,45 @@
+
+.hide, .hidden {
+    display: none;
+}
+
+.text-align-left {
+    text-align: left !important;
+}
+
+.text-align-center {
+    text-align: center !important;
+}
+
+.text-align-right {
+    text-align: right !important;
+}
+
+.float-left {
+    text-align: left !important;
+    clear: both;
+}
+
+.float-right {
+    text-align: right !important;
+    clear: both;
+}
+
+.max-width-100 {
+    max-width: 100px !important;
+}
+
+.error-message {
+    color: #e74a3b;
+}
+
+.image-box {
+    border: 5px solid;
+    margin: 0px 0px 5px 0px;
+}
+
+.image-delete {
+    position: absolute;
+    margin: -8px -12px 0px -14px;
+    color: red;
+}

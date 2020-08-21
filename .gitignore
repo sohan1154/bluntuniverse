@@ -1,0 +1,16 @@
+/public/hot
+/public/storage
+/public/uploads
+/public/vendor
+/storage/*.key
+/storage
+/vendor
+/.idea
+/.vscode
+/nbproject
+/.vagrant
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+error_log
